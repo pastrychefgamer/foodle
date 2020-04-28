@@ -10,6 +10,7 @@ Foodle is a volunteer driven grocery delivery app, as inspired by covid-19. Food
 
 ## Deployment
 Click the link below to visit Foodle. Here on the home page you need to choose to cign up as a customer or volunteer before you can begin your Foodle journey.
+
 https://foodle-wea.herokuapp.com
 
 ## Technologies used
@@ -28,4 +29,3 @@ https://foodle-wea.herokuapp.com
 - Galata Tona - Scrum Master/Co-Database Manager
 - William - Github Manager/Co-Database Manager
 - Vincent - Designer/Documenter
-- Avelynn - Designer/Documenter
